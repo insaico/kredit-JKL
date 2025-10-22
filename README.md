@@ -1,14 +1,12 @@
-# 🚗 Sistem Kredit Kendaraan PT. JKL
+# Sistem Kredit Kendaraan PT. JKL
 
 Sistem digital untuk mengelola pengajuan kredit kendaraan dengan workflow approval bertingkat.
 
-## 📋 Deskripsi
+**Soal 2.b** : fokus pada **Input Pengajuan & Approval**.
 
-Web apps yang memungkinkan konsumen untuk mengajukan kredit kendaraan secara online dan tim internal (Marketing & Atasan Marketing) untuk mengelola proses approval secara digital. Sistem ini mengimplementasikan **Soal 2.b** dari requirement: fokus pada **Input Pengajuan & Approval**.
+## Test Accounts
 
-## 👥 Test Accounts
-
-Untuk testing, Anda dapat membuat user dengan role berikut:
+Untuk testing:
 
 **Konsumen**
 ```bash
